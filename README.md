@@ -4,7 +4,7 @@ Auto Compile C, C++ and Java.
 Ronan Ridgway 
 11/11/2015
 
-Programs attempts to compile targeted C, C++ and Java files and produce a more consise error output in a seperate file. 
+Program attempts to compile targeted C, C++ and Java files and produce a more consise error output in a seperate file. 
 
 Auto-Compile function for Software Engineering CS 371 @ NMSU with Professor Cook.
 Team_5 www.coderscloud.net
