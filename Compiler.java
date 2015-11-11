@@ -30,7 +30,7 @@ static String cmd = "";
 
         static void compileCcc()
         {
-                cmd = "echo This is a CCC test!!";
+                cmd = ".compileJava.sh";
 
 //	cmd = "gcc -S ./snips/*.c &> out.txt ; grep \"error\" out.txt &> final";
 
